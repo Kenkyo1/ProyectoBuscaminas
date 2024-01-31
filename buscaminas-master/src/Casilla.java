@@ -1,7 +1,3 @@
-/**
- *
- * @author BELSOFT
- */
 public class Casilla {
     private int posFila;
     private int posColumna;
