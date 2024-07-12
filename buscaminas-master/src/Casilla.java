@@ -4,6 +4,7 @@ public class Casilla {
     private boolean mina;
     private int numMinasAlrededor;
     private boolean abierta;
+    private int contador;
 
     public Casilla(int posFila, int posColumna) {
         this.posFila = posFila;
